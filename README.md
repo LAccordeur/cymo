@@ -59,6 +59,9 @@ The predication result is write to a HBase table. To write to HBase from Python,
 ```
 ./hbase-daemon.sh start thrift
 ```
+### Query Dataset
+The query workload can be found in the directory `geomesa-test/src/main/resources/demo`.
 
+The query workload used for training can be found from the link `https://drive.google.com/file/d/13Jf6xtZSnZx-U0uyLhVGZvZaQolQpWJQ/view?usp=sharing`
 
 
